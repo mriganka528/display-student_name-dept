@@ -41,8 +41,7 @@ int main()
             }
         }
     }
-    cout << "\n\nDisplaying Student's Details :" << endl
-         << endl;
+    cout << "\n\nDisplaying Student's Details :" << endl << endl;
     for (int i = 0; i < max_std; i++)
     {
         cout << "student[" << i + 1 << "] name and department is: ";
